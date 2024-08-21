@@ -1,4 +1,4 @@
-__# Rate Repository App
+# Rate Repository App
 Mobile application which shows ratings for several demo Github repositories. 
 Users can sign up and login. 
 They can navigate to specific repository pages, and comment publicly. 
